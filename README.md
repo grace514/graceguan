@@ -1,7 +1,7 @@
 # Data Enthusiast
 Feel free to connect:
-[LinkedIn](www.linkedin.com/in/grace-guan-0671881bb)
-[Email](yaxingrace@gmail.com)
+- [LinkedIn](www.linkedin.com/in/grace-guan-0671881bb)
+- [Email](yaxingrace@gmail.com)
 
 ## Education
 - MSc Data Science | National University Singapore (2023)
