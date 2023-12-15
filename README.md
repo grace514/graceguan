@@ -2,8 +2,8 @@
 
 
 ## Education
-- MSc Data Science  | National University Singapore
-- BSc Applied Mathematics | National University Singapore
+- MSc Data Science | National University Singapore (2023)
+- BSc Applied Mathematics | National University Singapore (2019)
 
 ## Work Experience
 
