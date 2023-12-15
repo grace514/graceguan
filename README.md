@@ -2,11 +2,8 @@
 
 
 ## Education
-#### MSc Data Science & Machine Learning
-National University of Singapore (2023 - 2024)
-
-#### BSc Applied Mathematics (Hons) 
-National University of Singapore (2019 -2023)
+- MSc Data Science & Machine Learning | NUS
+- BSc Applied Mathematics | NUS
 
 ## Work Experience
 
