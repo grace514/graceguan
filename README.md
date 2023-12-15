@@ -2,8 +2,8 @@
 
 
 ## Education
-- MSc Data Science & Machine Learning | NUS
-- BSc Applied Mathematics | NUS
+- MSc Data Science & Machine Learning | National University Singapore
+- BSc Applied Mathematics | National University Singapore
 
 ## Work Experience
 
