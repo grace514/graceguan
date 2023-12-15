@@ -18,3 +18,4 @@ Under the mentorship of Professor Carol Anne Hargreaves – my project provided 
 
 ### Movie Recommendation System
 When it comes to Spotify or Netflix, recommendation system never fail to amaze me. I decided to create my own model in providing movie recommendations. 
+- Full Notebook Code [here](Grace DSA5105 Project.ipynb)
