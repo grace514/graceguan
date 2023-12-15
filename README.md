@@ -2,9 +2,9 @@
 
 
 ## Education
-- <h6>MSc Data Science & Machine Learning (National University of Singapore _Aug 2023_)<h6>
+- <h4>MSc Data Science & Machine Learning | National University of Singapore <h4>
 
-- BSc Applied Mathematics (Hons) (National University of Singapore _Aug 2019_)
+- BSc Applied Mathematics (Hons) | National University of Singapore _Aug 2019_
 
 ## Work Experience
 
